@@ -9,8 +9,7 @@ the output is send as an 8 bit digital signal on PIN 33-40.
 
 The output digital output signal can be converted to an analogue signal using a resistor ladder. See diagram below 
 
-![diagram](https://github.comlmelbye/picsynth/images/diagram.png)
+![diagram](/images/diagram.png?raw=true "Diagram")
 
-An example of the output signal with three tones playing simultaneously 
 
-![signal](https://github.com/lmelbye/picsynth/images/tone.jpg)
+![signal](/images/tone.jpg?raw=true "An example of the output signal with three tones playing simultaneously")
